@@ -1,2 +1,8 @@
 # npm node_modules folder
-node_modules/*
+node_modules/
+
+# logs 
+*.log
+
+# build folder
+dist/
