@@ -1,0 +1,28 @@
+{
+  "name": "nanovalidators",
+  "version": "0.0.1",
+  "description": "A nano js library to validate inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klougod/nanovalidators.git"
+  },
+  "keywords": [
+    "nano",
+    "validator",
+    "validate",
+    "validators"
+  ],
+  "author": "klougod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klougod/nanovalidators/issues"
+  },
+  "homepage": "https://github.com/klougod/nanovalidators#readme",
+  "devDependencies": {
+    "rollup": "^1.16.7"
+  }
+}
